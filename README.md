@@ -12,8 +12,6 @@ Experienced Senior DevOps Engineer with a demonstrated history of designing and 
 - Microsoft Certified: Azure Administrator Associate
 - Certified SAFe® 4 Agilist
 
-![Image Link](https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
-
 ## Technical Skills
 - **Languages:** Java, Python, Shell Scripting, YAML (Azure Pipelines), HCL (Terraform)
 - **Containers:** Kubernetes, Docker, Helm Azure : Kubernetes Service, Container Registry, Container Instances, Functions
