@@ -1,15 +1,16 @@
+## About 👨
 Experienced Senior DevOps Engineer with a demonstrated history of designing and developing high availability mission critical applications. Implementing complex non-prod and prod environments in cloud and on-premise. Skilled in DevOps principals, CI/CD, Kubernetes, Helm, Terraform, Azure DevOps, Maven, Git, Restful APIs, Spring Boot framework & Data Structures.
 
-## Contact
+## Contact 📫
 
 [Email](mailto:ashishverma.pu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashish-verma-pu/)
 
 
-## Certifications
+## Certifications 🛡️
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/737d8f74-a5a0-4100-8ec5-e5427b76fe84?source=linked_in_profile)
 - [Certified SAFe® 4 Agilist](https://www.credly.com/badges/19492765-6174-4e6d-b990-b089e80f2569/linked_in_profile)
 
-## Technical Skills
+## Technical Skills 👨‍💻
 - **Languages:** Java, Python, Shell Scripting, YAML (Azure Pipelines), HCL (Terraform)
 - **Containers:** Kubernetes, Docker, Helm Azure : Kubernetes Service, Container Registry, Container Instances, Functions
 - **Security:** TLS Certificates, Azure Key Vault, Azure Active Directory, Application Gateway, Web Application Firewall
@@ -18,7 +19,7 @@ Experienced Senior DevOps Engineer with a demonstrated history of designing and 
 - **Services:** REST APIs & Microservices
 
 
-## Professional Experience
+## Professional Experience 💼
 
 ### **Sr DevOps Engineer | Tech Mahinda (AT&T) | San Ramon, USA & Alpharetta, USA | [Jan 2017 – Present]**
 
@@ -41,7 +42,7 @@ Experienced Senior DevOps Engineer with a demonstrated history of designing and 
 -	**Custom Alerting Scripts & Reporting Tools** Written over 10 small custom alerting scripts and reporting tools 
 
 
-### **Education**
+## **Education** 👨‍🎓
 
 - **Master of Computer Applications** – Panjab University, India **[GPA 4.0/4.0]** [2012]
 - _**(MS in Computer Science equivalent)**_
