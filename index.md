@@ -1,8 +1,8 @@
 <table width="100%">
   <tr>
-    <h1>Ashish Verma</h1>
-  </tr>
-  <tr>
+    <td>
+      <h1>Ashish Verma</h1>
+    </td>
     <td style="text-align:right">
       <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Girl in a jacket" width="150" height="150">
     </td>
