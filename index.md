@@ -1,15 +1,5 @@
-<table width="100%">
-  <tr>
-    <td>
-      <h1>Ashish Verma</h1>
-    </td>
-    <td style="text-align:right">
-      <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Girl in a jacket" width="150" height="150">
-    </td>
-  </tr>
-</table>
-
 # Ashish Verma
+
 [Email](mailto:ashishverma.pu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashish-verma-pu/)
 
 ## About
@@ -17,8 +7,8 @@ Experienced Senior DevOps Engineer with a demonstrated history of designing and 
 
 
 ## Certifications
-- Microsoft Certified: Azure Administrator Associate
-- Certified SAFe® 4 Agilist
+- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/737d8f74-a5a0-4100-8ec5-e5427b76fe84?source=linked_in_profile)
+- [Certified SAFe® 4 Agilist](https://www.credly.com/badges/19492765-6174-4e6d-b990-b089e80f2569/linked_in_profile)
 
 ## Technical Skills
 - **Languages:** Java, Python, Shell Scripting, YAML (Azure Pipelines), HCL (Terraform)
@@ -57,3 +47,7 @@ Experienced Senior DevOps Engineer with a demonstrated history of designing and 
 - **Master of Computer Applications** – Panjab University, India **[GPA 4.0/4.0]** [2012]
 - _**(MS in Computer Science equivalent)**_
 - **Coursework:** Data structures & Algorithm Analysis, Database Design, Web Technologies, Computer Applications and Operating Systems.
+
+<br/><br/>
+
+![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
