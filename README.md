@@ -46,6 +46,6 @@ Experienced Senior DevOps Engineer with a demonstrated history of designing and 
 
 ### **Education**
 
-Master of Computer Applications – Panjab University, India [GPA 4.0/4.0] [2012] 
-(MS in Computer Science equivalent) 
-Coursework: Data structures & Algorithm Analysis, Database Design, Web Technologies, Computer Applications and Operating Systems.
+- **Master of Computer Applications** – Panjab University, India **[GPA 4.0/4.0]** [2012]
+- _**(MS in Computer Science equivalent)**_
+- **Coursework:** Data structures & Algorithm Analysis, Database Design, Web Technologies, Computer Applications and Operating Systems.
