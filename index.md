@@ -1,9 +1,8 @@
-# Ashish Verma
+Experienced Senior DevOps Engineer with a demonstrated history of designing and developing high availability mission critical applications. Implementing complex non-prod and prod environments in cloud and on-premise. Skilled in DevOps principals, CI/CD, Kubernetes, Helm, Terraform, Azure DevOps, Maven, Git, Restful APIs, Spring Boot framework & Data Structures.
+
+## Contact
 
 [Email](mailto:ashishverma.pu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashish-verma-pu/)
-
-## About
-Experienced Senior DevOps Engineer with a demonstrated history of designing and developing high availability mission critical applications. Implementing complex non-prod and prod environments in cloud and on-premise. Skilled in DevOps principals, CI/CD, Kubernetes, Helm, Terraform, Azure DevOps, Maven, Git, Restful APIs, Spring Boot framework & Data Structures.
 
 
 ## Certifications
